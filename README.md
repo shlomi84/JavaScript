@@ -1,5 +1,5 @@
 These projects and notes are from a Javascript course I took on the web  
-#Topics include:
+## Topics include:
 - JavaScript and programming fundamentals: variables, boolean logic, if/else, loops, functions, arrays, etc.
 - Complex features like the 'this' keyword, function constructors, prototypal inheritance, first-class functions, closures
 - Asynchronous JavaScript: The event loop, promises, async/await, AJAX and APIs
