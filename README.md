@@ -18,6 +18,7 @@ Broke down a complex budget calculator app into 3 different modules for proper o
 - App Controller
 - UI Controller
 - Budget Controller  
+  
 The App Controller was used to communicate the data between the Budget Controller and UI Controller to calculate and display budgets.  
   
 ### Project 3 - Forkify  
